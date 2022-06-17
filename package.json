@@ -1,5 +1,5 @@
 {
-  "name": "fastify-issue-repro-x",
+  "name": "fastify-issue-repro-4032",
   "private": true,
   "dependencies": {
     "@fastify/type-provider-typebox": "^1.0.0",
